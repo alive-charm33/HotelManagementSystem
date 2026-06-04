@@ -1,0 +1,16 @@
+HotelManagementSystem/
+│
+├── src/
+│   ├── main.cpp
+│   ├── Room.h
+│   ├── Room.cpp
+│   ├── Customer.h
+│   ├── Customer.cpp
+│
+├── database/
+│   └── hotel_db.sql
+│
+├── docs/
+│
+├── README.md
+└── .gitignore
